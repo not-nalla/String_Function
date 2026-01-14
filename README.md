@@ -23,4 +23,6 @@ String operations covered
 This program is intended for beginners learning Java, helping them understand how Java’s String class works and how different string methods behave with user input.
 
 --Output--
+
+
 <img width="472" height="376" alt="image" src="https://github.com/user-attachments/assets/203d374c-f95c-4029-b5cc-714380ed9502" />
